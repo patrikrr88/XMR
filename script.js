@@ -17,7 +17,7 @@ const lines = [
   "Monitoring darknet TXs...",
   "Status: Online",
   "--------------------------------------------------",
-  "[ Live Mining Status Below ↓↓↓ ]"
+  "[ Live Mining Status ]"
 ];
 
 let totalEarnings = 0.000000;
